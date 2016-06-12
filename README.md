@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+
+# HOST PING SOAP Web Service SERVER
 
 TODO: Write a project description
 
