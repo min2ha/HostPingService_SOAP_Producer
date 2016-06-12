@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+				  xmlns:gs="http://spring.io/guides/gs-producing-web-service">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <gs:getHostRequest>
+         <gs:name>www.kaunas.lt</gs:name>
+      </gs:getHostRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

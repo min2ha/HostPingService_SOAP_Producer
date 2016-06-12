@@ -1,0 +1,9 @@
+io\spring\guides\gs_producing_web_service\GetHostRequest.class
+hello\WebServiceConfig.class
+hello\HostRepository.class
+io\spring\guides\gs_producing_web_service\ObjectFactory.class
+hello\HostEndpoint.class
+io\spring\guides\gs_producing_web_service\package-info.class
+io\spring\guides\gs_producing_web_service\GetHostResponse.class
+io\spring\guides\gs_producing_web_service\Host.class
+hello\Application.class
